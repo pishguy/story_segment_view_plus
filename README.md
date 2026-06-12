@@ -1,11 +1,8 @@
-This package provides a customizable circular segment indicator around profile avatars. It allows full customization of the number of segments, stroke width, gap size, and image.
+A customizable circular segment indicator around profile avatars, inspired by Instagram stories. Fully customizable: number of segments, stroke width, gap size, colors, animations, and more.
 
-<img src="images/screenshot.png" alt="Story Segment View Plus Example" width="400">
-
-
-preview for new features:
-
-https://github.com/user-attachments/assets/4d8bce4f-be0b-40a2-af47-8755fce8f52a
+<p align="center">
+  <img src="images/preview.gif" alt="Story Segment View Plus Demo" width="300">
+</p>
 
 
 ## Installation
