@@ -1,7 +1,7 @@
 A customizable circular segment indicator around profile avatars, inspired by Instagram stories. Fully customizable: number of segments, stroke width, gap size, colors, animations, and more.
 
 <p align="center">
-  <img src="images/preview.gif" alt="Story Segment View Plus Demo" width="300">
+  <img src="images/preview.gif" alt="Story Segment View Plus Demo">
 </p>
 
 
