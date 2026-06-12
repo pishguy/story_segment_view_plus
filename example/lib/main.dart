@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:story_segment_view_plus/story_segment_view.dart';
+import 'package:story_segment_view_plus/story_segment_view_plus.dart';
 
 void main() {
   runApp(const MyApp());
