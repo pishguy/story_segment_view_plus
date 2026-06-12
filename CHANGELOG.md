@@ -1,3 +1,8 @@
+## 2.0.4
+
+* Fixed image URL to use raw GitHub link for pub.dev compatibility.
+* Updated README version reference.
+
 ## 2.0.3
 
 * Updated README with preview GIF and improved description.

@@ -1,7 +1,7 @@
 A customizable circular segment indicator around profile avatars, inspired by Instagram stories. Fully customizable: number of segments, stroke width, gap size, colors, animations, and more.
 
 <p align="center">
-  <img src="images/preview.gif" alt="Story Segment View Plus Demo">
+  <img src="https://github.com/pishguy/story_segment_view_plus/raw/main/images/preview.gif" alt="Story Segment View Plus Demo">
 </p>
 
 
@@ -11,7 +11,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  story_segment_view_plus: ^2.0.2
+  story_segment_view_plus: ^2.0.3
 ```
 
 ## Usage
