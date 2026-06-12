@@ -1,3 +1,7 @@
+## 2.0.3
+
+* Updated README with preview GIF and improved description.
+
 ## 2.0.2
 
 * Forked from story_segment_view and renamed to story_segment_view_plus.
