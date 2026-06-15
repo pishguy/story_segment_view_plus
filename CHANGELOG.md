@@ -1,3 +1,7 @@
+## 2.0.5
+
+* Fixed README version reference to match package version.
+
 ## 2.0.4
 
 * Fixed image URL to use raw GitHub link for pub.dev compatibility.

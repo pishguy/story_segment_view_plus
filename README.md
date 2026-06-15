@@ -11,7 +11,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  story_segment_view_plus: ^2.0.3
+  story_segment_view_plus: ^2.0.4
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 name: story_segment_view_plus
 description: "A Flutter package that provides a customizable circular segment indicator around profile avatars."
-version: 2.0.4
+version: 2.0.5
 repository: https://github.com/pishguy/story_segment_view_plus
 homepage: https://github.com/pishguy/story_segment_view_plus
 topics: [story, stories, instagram, reel, reels]
